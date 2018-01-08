@@ -3,14 +3,36 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-		<title>reveal.js</title>
+        <meta name="author" content="David Thomas">
 
+		<title>Digital Presentations</title>
+
+        <!-- core reveal.js css -->
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
+        <!-- individual reveal.js themes. defaulting to moon, but can be changed live on page -->
+		<link rel="stylesheet" href="css/theme/beige.css">
+        <link rel="stylesheet" href="css/theme/black.css">
+        <link rel="stylesheet" href="css/theme/blood.css">
+        <link rel="stylesheet" href="css/theme/league.css">
+        <link rel="stylesheet" href="css/theme/moon.css">
+        <link rel="stylesheet" href="css/theme/night.css">
+        <link rel="stylesheet" href="css/theme/serif.css">
+        <link rel="stylesheet" href="css/theme/simple.css">
+        <link rel="stylesheet" href="css/theme/sky.css">
+        <link rel="stylesheet" href="css/theme/solarized.css">
+        <link rel="stylesheet" href="css/theme/white.css">
+        <link rel="stylesheet" href="css/theme/moon.css" id="theme">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
+        <!-- Extra css for the spreadsheet plugin -->
+        <link rel="stylesheet" href="plugin/spreadsheet/spreadsheet.css">
+
+        <!-- main custom css for all user pages -->
+        <link rel="stylesheet" href="docs/common/css/main.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -22,27 +44,214 @@
 		</script>
 	</head>
 	<body>
+        <!-- reveal -->
 		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
-		</div>
+            <!-- slides -->
+			<div class="slides main-container">
+                <!-- splash page vertical container -->
+                <section>
+                    <!-- splash page -->
+                    <section>
+                        <aside class="notes">
+                    		Digital Presentations: David J. Thomas
+                    	</aside>
+                        <div class="flex-column flex-justify-evenly" style="height: 100%;">
+                            <div>
+                                <h1>David J. Thomas</h1>
+                                <h3>Digital Presentations</h3>
+                            </div>
+                            <div>
+                                <hr />
+                            </div>
+                            <div class="flex-column">
+                                <div class="small">Instructor of Ancient History and Digital Humanities</div>
+                                <div class="small"><a href="https://usf.edu" target="_">University of South Florida</a></div>
+                                <div class="small">Department of History</div>
+                            </div>
+                            <div>
+                                <hr />
+                            </div>
+                            <div class="flex-row flex-justify-evenly">
+                                <div class="very-small">
+                                    <a href="http://thePortus.com" target="_">Website</a>
+                                </div>
+                                <div class="very-small">
+                                    <a href="mailto:dave.a.base@gmail.com">Email</a>
+                                </div>
+                            </div>
+                            <div>
+                                <hr />
+                            </div>
+                            <div class="extremely-small text-bottom">Powered by <a href="https://github.com/hakimel/reveal.js">Reveal.js</a></div>
+                    </section> <!-- /splash page -->
 
+                    <!-- current talk -->
+                    <!-- remove comments below only when you want a current talk to be highlighted -->
+                    <!--
+                    <section>
+                        <h3>Today's Talk</h3>
+                        <hr />
+                        <a href="docs/current/"></a>
+                    </section>
+                    -->
+                    <!-- /current talk -->
+
+
+				</section> <!-- /splash page vertical container -->
+                <!-- digital courses vertical container -->
+				<section>
+                    <!-- digital title page -->
+                    <section>
+                        <h2>Courses: Digital</h2>
+                    </section> <!-- /digital title page -->
+                    <!-- hacking history -->
+                    <section>
+                        <h3>Hacking History<br /><span class="transparent-25">Digital Humanities I</span></h3>
+                        <hr />
+                        <ol class="pretty-list">
+                            <li>
+                                <span class="pretty-small"><a href="docs/courses/hacking-history/computer-history">Nations & Capital: The Evolution of Computing</a></span>
+                            </li>
+                            <li>
+                                <span class="pretty-small"><a href="docs/courses/hacking-history/history-of-hacking">Horses, Humans, and a History of Hacking</a></span>
+                            </li>
+                            <li>
+                                <span class="pretty-small"><a href="docs/courses/hacking-history/archive">Data's Physical Footprint</a></span>
+                            </li>
+                            <li>
+                                <span class="pretty-small"><a href="docs/courses/hacking-history/networks">Analyzing Historical Networks</a></span>
+                            </li>
+                            <li>
+                                <span class="pretty-small"><a href="docs/courses/hacking-history/text">Unraveling Text</a></span>
+                            </li>
+                        </ol>
+                    </section> <!-- /hacking history -->
+				</section> <!-- /digital courses vertical container -->
+
+                <!-- history courses vertical container -->
+                <section>
+                    <!-- history title page -->
+                    <section>
+                        <h2>Courses: History</h2>
+                    </section> <!-- /history title page -->
+                    <!-- religions of the ancient mediterranean -->
+					<section>
+                        <h3>Religions<br /><span class="pretty-small">of the</span><br />Ancient Mediterranean</h3>
+                        <hr />
+                        <ol class="pretty-list">
+                            <li>
+                                <span class="pretty-small"><a href="docs/courses/common/presentations/tools-of-the-trade">Tools of the Trade</a></span>
+                            </li>
+                        </ol>
+                    </section> <!-- /religions of the ancient mediterranean -->
+				</section><!-- / history courses vertical container -->
+                <!-- conferences and talks vertical contianer -->
+                <section>
+                    <!-- conferences and talks title page -->
+                    <section>
+                        <h2>Conferences and Talks</h2>
+                    </section> <!-- /conferences and talks title page -->
+                    <!-- talks -->
+                    <section>
+                        <h3>Talks</h2>
+                        <hr />
+                        <ol class="pretty-list">
+                            <span class="pretty-small"><li>Coming Soon</li></span>
+                        </ol>
+                    </section> <!-- /talks -->
+                    <!-- conferences -->
+                    <section>
+                        <h3>Conference Panelist Presentations</h3>
+                        <hr />
+                        <ol class="pretty-list">
+                            <span class="pretty-small"><li>Coming Soon</li></span>
+                        </ol>
+                    </section> <!-- /conferences -->
+                </section> <!-- /conferences and talks vertical container -->
+			</div> <!-- /slides -->
+		</div> <!-- /reveal -->
+
+        <!-- reveal.js scripts -->
 		<script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.js"></script>
+        <!-- spreadsheet plugin -->
+        <script src="plugin/spreadsheet/ruleJS.all.full.min.js"></script>
 
+        <!-- reveal.js initialization configuration -->
 		<script>
 			// More info about config & dependencies:
 			// - https://github.com/hakimel/reveal.js#configuration
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
+                mouseWheel: true,
+                hideAddressBar: true,
+                prefixLinks: false,
+                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/convex/zoom/linear/fade/none
+                backgroundTransition: Reveal.getQueryHash().backgroundTransition || 'default',
+                transitionSpeed: Reveal.getQueryHash().transitionSpeed || 'default',
+                // Parallax scrolling
+                parallaxBackgroundImage: 'https://d37emhs34s6iw8.cloudfront.net/presentations/common/backgrounds/angular-clemens-migrant.jpg',
+                parallaxBackgroundSize: '3778px 1900px',
+                // Number of pixels to move the parallax background per slide
+            	parallaxBackgroundHorizontal: 350,
+            	parallaxBackgroundVertical: 350,
+                // markdown, marked parsing configuration
+                markdown: {
+                    gfm: true,
+                    tables: true,
+                    breaks: true,
+                    smartypants: true,
+                    smartyLists: true,
+
+                },
+                controlsTutorial: false,
 				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
+                    { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                    // Interpret Markdown in <section> elements
+            		{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            		{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    // Syntax highlight for <code> elements
+                    { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    // Zoom in and out with Alt+click
+                    { src: 'plugin/zoom-js/zoom.js', async: true },
+                    // Speaker notes
+                    { src: 'plugin/notes/notes.js', async: true },
+                    // MathJax
+                    { src: 'plugin/math/math.js', async: true },
+                    // Anything plugin to use json to determine object behavior
+                    { src: 'plugin/anything/anything.js', async: true },
+                    // Chalkboard with 'b'
+                    { src: 'plugin/chalkboard/chalkboard.js', async: true },
+                    // Fullscreen for elements with attribute data-fullscreen
+                    { src: 'plugin/fullscreen/fullscreen.js', async: true },
+                    // Menu plugin with reveal.js-menu
+                    { src: 'node_modules/reveal.js-menu/menu.js', async: true },
+                    // Toolbar plugin with reveal.toolbar
+                    { src: 'node_modules/reveal.js-toolbar/toolbar.js', async: true },
+                    // Spreadsheet plugin
+                    { src: 'plugin/spreadsheet/spreadsheet.js', async: true },
+                    // chart plugin with csv loader
+                    { src: 'plugin/chart/Chart.min.js', async: true },
+                    { src: 'plugin/chart/csv2chart.js', async: true },
+				],
+                // custom keyboard mapping
+                keyboard: {
+            	    67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+            	    66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
+            	    46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
+            	     8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
+            	    68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+            	},
+                // plugin configurations
+                toolbar: {
+                    fullscreen: true,
+                    overview: true,
+                    notes: true,
+                    help: true,
+                    captureMenu: true,
+                    loadIcons: true
+                }
 			});
 		</script>
 	</body>

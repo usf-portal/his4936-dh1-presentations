@@ -1,9 +1,8 @@
 {
-  "name": "reveal.js",
-  "version": "3.6.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
+  "name": "thePortus-presentations",
+  "version": "0.0.0",
+  "description": "A collection of digital presentations by David J. Thomas",
+  "homepage": "http://thePortus.com",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
@@ -11,16 +10,20 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "David J. Thomas",
+    "email": "dave.a.base@gmail.com",
+    "web": "http://thePortus.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/thePortus/presentations.git"
   },
   "engines": {
     "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "reveal.js-menu": "^0.9.1",
+    "reveal.js-toolbar": "^0.1.3"
   },
   "devDependencies": {
     "express": "^4.15.2",
