@@ -126,9 +126,9 @@
 
 --
 
-![A Dark Dungeon Hallway](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/intro/dungeon.jpg)
+## A Door Slams Shut Behind You!
 
-A door slams shut behind you!
+![A Dark Dungeon Hallway](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/intro/dungeon.jpg)
 
 <aside class="notes">Run the bit dungeon exercise here.</aside>
 
