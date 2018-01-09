@@ -1,42 +1,42 @@
-## Archaeology
+#### Archaeology
 
 --
 
-### Dating, Relative and Absolute
+##### Dating, Relative and Absolute
 
 ![Carbon Dating](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/dating-carbon.gif)
 ![Stratigraphic Dating](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/dating-stratigraphy.jpg)
 
 --
 
-### The 'Golden Age' of Archaeology
+##### The 'Golden Age' of Archaeology
 
 ![Heinrich Schliemann](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/schliemann-heinrich.png)
 ![Death Mask of Agamemnon](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/agamemnon-mask.jpg)
 
 --
 
-### Trend and Grid Digs
+##### Trend and Grid Digs
 
 ![Trench Archaeology](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/trench-arch.jpg)
 ![Grid Archaeology](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/grid-site.jpg)
 
 --
 
-### Measuring Burials
+##### Measuring Burials
 
 ![Grave Schema](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/gridscheme.jpg)
 
 --
 
-### Grid Sketching
+##### Grid Sketching
 
 ![Skeleton Measurements](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/grid-skel.jpg)
 ![Grid Sketch](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/grid-sketch.jpg)
 
 --
 
-### Survey Archaeology
+##### Survey Archaeology
 
 ![Surface Survey](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/survey-surface.jpg)
 
@@ -47,31 +47,31 @@
 
 --
 
-### Scholarly Caution
+##### Scholarly Caution
 
 ![Sophie Schliemann](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/schliemann-sophie.jpg)
 
 --
 
-### Scholarly Caution
+##### Scholarly Caution
 
 ![Motel of Mysteries](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/motel-headress.jpg)
 ![Motel of Mysteries](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/motel-altar.jpg)
 
 ---
 
-## Papyrology/Paleography
+#### Papyrology/Paleography
 
 --
 
-### Making a Papyrus
+##### Making a Papyrus
 
 ![Ancient Scroll](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/scroll.jpg)
 ![Modern Papyrus Making](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/papyrus-manufacture.jpg)
 
 --
 
-### Finding Papyri
+##### Finding Papyri
 
 ![Cairo Genizah](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/papyrus-genizah.jpg)
 
@@ -82,98 +82,98 @@
 
 --
 
-### Vellum of Pergamon
+##### Vellum of Pergamon
 
 ![Stretching the Hide](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/vellum-stretch.jpg)
 
 --
 
-### It Puts the Lotion on it's Skin
+##### It Puts the Lotion on it's Skin
 
 ![Vellum with Hair](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/vellum-follicles.jpg)
 
 --
 
-### Palimpsests: New Texts
+##### Palimpsests: New Texts
 
 ![Vellum with Hair](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/vellum-palimpsest.jpg)
 
 ---
 
-## Philology
+#### Philology
 
 --
 
-### Readings, Prosody, and Scansion
+##### Readings, Prosody, and Scansion
 
 ![Latin Prosody](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/philology-scansion.jpg)
 
 --
 
-### Etymological Relationships
+##### Etymological Relationships
 
 ![Manuscript Transmission Diagram](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/philology-kfr.PNG)
 
 --
 
-### Textual Transmission
+##### Textual Transmission
 
 ![Manuscript Transmission Diagram](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/philology-transmission.jpg)
 
 ---
 
-### Numismatics
+##### Numismatics
 
 --
 
-### Coins: Hoards
+##### Coins: Hoards
 
 ![Economic Evidence](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/coin-hoard.jpg)
 
 --
 
-### Coins: Manufacture
+##### Coins: Manufacture
 
 ![Striking coins](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/coin-manufacture.gif)
 ![Coin Die](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/coin-die.jpg)
 
 --
 
-### Coins: Economic Evidence
+##### Coins: Economic Evidence
 
 ![Economic Evidence](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/coin-economy.jpg)
 
 --
 
-### Coins: Ideological and Cultural Evidence
+##### Coins: Ideological and Cultural Evidence
 
 ![Economic Evidence](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/coin-constantine.jpg)
 
 ---
 
-### Epigraphy
+##### Epigraphy
 
 --
 
-### Epigraphy: Texts of a Different Kind
+##### Epigraphy: Texts of a Different Kind
 
 ![Laudatio Turiae](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/epigraphy-inscription.jpg)
 
 --
 
-### Epigraphy: Close Readings
+##### Epigraphy: Close Readings
 
 ![Roman Epigraphic Habit](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/epigraphy-close.png)
 
 --
 
-### Epigraphy: The Roman 'Habit'
+##### Epigraphy: The Roman 'Habit'
 
 ![Roman Epigraphic Habit](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/epigraphy-roman-habit.jpg)
 
 --
 
-### Epigraphy: The Athenian 'Habit'
+##### Epigraphy: The Athenian 'Habit'
 
 ![Athenian Epigraphic Habit](https://d37emhs34s6iw8.cloudfront.net/presentations/history/tools-of-the-trade/epigraphy-athens-habit.jpg)
 

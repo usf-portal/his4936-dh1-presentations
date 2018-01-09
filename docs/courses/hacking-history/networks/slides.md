@@ -5,57 +5,57 @@
 
 ![The Seven Bridges of Koenigsberg Map](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/koenigsberg-1.png)
 
-### Koenigsberg: Drunken Bets and Network Thinking
+##### Koenigsberg: Drunken Bets and Network Thinking
 
 --
 
 ![The Seven Bridges of Koenigsberg Simplified](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/koenigsberg-2.png)
 
-### Considering relationships, not locations
+##### Considering relationships, not locations
 
 --
 
 ![The Seven Bridges of Koenigsberg Abstracted](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/koenigsberg-3.png)
 
-### Mathematically abstracted
+##### Mathematically abstracted
 
 ---
 
-## Types of Graphs
+#### Types of Graphs
 
 --
 
 ![Network Graph Types - Directed vrs. Undirected Graphs Examples](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-types-direction.png)
 
-### Directed vrs. Undirected Edges
+##### Directed vrs. Undirected Edges
 
 --
 
 ![Network Graph Types - Weighted vrs. Unweighted Graphs Examples](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-types-weight1.png)
 
-### Weighted vrs. Unweighted Edges
+##### Weighted vrs. Unweighted Edges
 
 --
 
 ![Network Graph Types - Weighted vrs. Unweighted Graphs Examples](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-types-weight2.png)
 
-### Quantifying Relationships
+##### Quantifying Relationships
 
 --
 
 ![Visual Information - Color, Size, and Layout](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/graph-colors.png)
 
-### Visually Displaying Information: Placement, Color, and Size
+##### Visually Displaying Information: Placement, Color, and Size
 
 --
 
-### Keep it Simple - The Dangers of Many Network Graphs
+##### Keep it Simple - The Dangers of Many Network Graphs
 
 ![Bad Visualizations - The Spaghetti Monster](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/spaghetti-monster.png)
 
 ---
 
-## Social Network Analysis (SNA) Milestones
+#### Social Network Analysis (SNA) Milestones
 
 * 1973, Mark Granovetter, [The Strength of Weak Ties](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf)
 * 1988, Hanneman, [Computer Assisted Theory Building: Modeling Dynamic Social Systems](http://faculty.ucr.edu/~hanneman/dynamics/dynamics.zip)
@@ -65,7 +65,7 @@
 
 --
 
-## Major Metrics
+#### Major Metrics
 
 <table>
     <tr>
@@ -87,17 +87,17 @@
 
 ---
 
-## Historical Applications of Network Analysis
+#### Historical Applications of Network Analysis
 
 --
 
-### The Topography of the Volga River Valley
+##### The Topography of the Volga River Valley
 
  ![Map of the Volga River and its Cities](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/moscow-volga-1.png)
 
 --
 
-### The *Topology* of the Volga River Valley
+##### The *Topology* of the Volga River Valley
 
 ![Network Graph of Cities on the Volga River](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/moscow-volga-2.png)
 
@@ -105,79 +105,79 @@
 
 --
 
-### The *Monte*, A Hill of Broken Pottery
+##### The *Monte*, A Hill of Broken Pottery
 
 ![The Monte Testaccio - Inside](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-inside.png)
 
 --
 
-### Digging through the Centuries
+##### Digging through the Centuries
 
 ![The Monte Testaccio - Side View](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-side-view.png)
 
 --
 
-### Unraveling Networks of Exchange
+##### Unraveling Networks of Exchange
 
 ![The Monte Testaccio - Amphora Maker's Mark](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-stamp.png)
 
 --
 
-### The Major Source: Baetica (Southern Spain)
+##### The Major Source: Baetica (Southern Spain)
 
 ![The Monte Testaccio - Map of Baetica](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-baetica-1.png)
 
 --
 
-### The Topography of the Towns Mentioned in the Monte
+##### The Topography of the Towns Mentioned in the Monte
 
 ![The Monte Testaccio - River Valley Map](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-baetica-2.png)
 
 --
 
-### The *Topology* of the Towns Mentioned in the Monte
+##### The *Topology* of the Towns Mentioned in the Monte
 
 ![The Monte Testaccio - Network Topology](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/monte-testaccio-baetica-3.png)
 
 --
 
-### Another Look at Trade - Roman Shipwrecks from Turkey and Trade Networks
+##### Another Look at Trade - Roman Shipwrecks from Turkey and Trade Networks
 
 ![Roman Shipwrecks - Hellenistic Period](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/shipwreck-network-1.png)
 
 
 --
 
-### Literary Approaches - Mapping the Networks Discourse Analysis
+##### Literary Approaches - Mapping the Networks Discourse Analysis
 
 ![Co-Citational Network Graph as Discourse Analysis](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/network-discourse.png)
 
 --
 
-### Using Network Analysis - What is a Network Really?
+##### Using Network Analysis - What is a Network Really?
 
 ![Network Connections Imagined in Inscription from Eleusis](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/imagined-networks.png)
 
 --
 
-### The Growth of Network Analysis - Popularity Amongst Scholars in Historical Context
+##### The Growth of Network Analysis - Popularity Amongst Scholars in Historical Context
 
 ![Network Connections Imagined in Inscription from Eleusis](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/networks/imagined-networks.png)
 
 --
 
-### Some Online Applications
+##### Some Online Applications
 
 * [Early American Foreign Service Database](http://www.eafsd.org/)
 * [Orbis Geospation Network Model of the Roman World](http://orbis.stanford.edu/)
 
 ---
 
-## Links
+#### Links
 
 --
 
-### Academic Readings
+##### Academic Readings
 
 * Robert Hanneman and Mark Riddle - [Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/
 )
@@ -186,7 +186,7 @@
 
 --
 
-### Top Tools
+##### Top Tools
 
 * [Gephi](https://gephi.org/) (recommended serious network analysis)
 * [Palladio](http://hdlab.stanford.edu/palladio/#/) (recommended for introductory work or exploratory visualizations)
@@ -195,7 +195,7 @@
 
 --
 
-### Tutorials
+##### Tutorials
 
 * Overall
     * The Historian's Macroscope - [Network Analysis](http://www.themacroscope.org/?page_id=889)

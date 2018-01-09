@@ -186,6 +186,29 @@ span.extremely-small, div.extremely-small {
     align-content: space-around;
 }
 
+.slide-contents {
+    height: 500px;
+    width: 800px;
+}
+
+
 .reveal section.present p img {
-    max-height: 450px;
+    max-height: 550px;
+}
+
+.center-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-container {
+    object-fit: scale-down;
+}
+
+.padding-light {
+    padding: 5px;
+}
+
+.padding-medium {
+    padding: 25px;
 }

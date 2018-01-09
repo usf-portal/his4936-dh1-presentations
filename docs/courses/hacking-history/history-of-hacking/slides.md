@@ -1,42 +1,42 @@
-## The Early History
+#### The Early History
 
 --
 
-### Hiring the Horses of Hackney
+##### Hiring the Horses of Hackney
 
 ![Hacking Horses](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/hacking.jpg)
 
 --
 
-### The Grub Street Hacks
+##### The Grub Street Hacks
 
 ![Grub Street Hack Writers](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/grub-st.jpg)
 
 --
 
-### Popularizing the Term
+##### Popularizing the Term
 
 ![Hackneyed Comic](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/hackneyed.jpg)
 
 ---
 
-## Industry and Commerce
+#### Industry and Commerce
 
 --
 
-### The First Hacks
+##### The First Hacks
 
 ![Hack Work](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/hack-work.jpg)
 
 --
 
-### Industrial Hacking
+##### Industrial Hacking
 
 ![Industrial Era Hacking](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/industrial-hacking.jpg)
 
 ---
 
-## Hackers
+#### Hackers
 
 Phreaking Out About Hacking
 
@@ -44,19 +44,19 @@ Phreaking Out About Hacking
 
 --
 
-### The MIT Hacking Group
+##### The MIT Hacking Group
 
 ![Telephone Hackers Article](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/hackers.png)
 
 --
 
-### Pop Hacking
+##### Pop Hacking
 
 ![Movie Screen from Hackers](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/pop-hacking.jpg)
 
 ---
 
-## Hacking Today
+#### Hacking Today
 
 Anonymous
 
@@ -64,18 +64,18 @@ Anonymous
 
 --
 
-### Hackers, Hats, and Hegemony
+##### Hackers, Hats, and Hegemony
 
 ![Hats of Hackers](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/hacker-hats.jpg)
 
 --
 
-### Life Hacks, a Strange Full Circle
+##### Life Hacks, a Strange Full Circle
 
 ![Life Hacks](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/lifehacks.jpg)
 
 --
 
-### What is Hacking History, and How Can We Do it?
+##### What is Hacking History, and How Can We Do it?
 
 ![Hacking History](https://d37emhs34s6iw8.cloudfront.net/presentations/digital/history-of-hacking/history-of-hacking.png)
