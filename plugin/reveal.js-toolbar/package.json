@@ -1,0 +1,52 @@
+{
+  "_args": [
+    [
+      "reveal.js-toolbar@0.1.3",
+      "C:\\Users\\milma\\git\\usf\\presentations"
+    ]
+  ],
+  "_from": "reveal.js-toolbar@0.1.3",
+  "_id": "reveal.js-toolbar@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-vbY4A+rtIbomturRbjxHBI9267DsdK5q2CwCO48bJyTjNNmlD3oIGMqTWQVqWd7WGn74lKst4YdYdTYRGYzVsA==",
+  "_location": "/reveal.js-toolbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "reveal.js-toolbar@0.1.3",
+    "name": "reveal.js-toolbar",
+    "escapedName": "reveal.js-toolbar",
+    "rawSpec": "0.1.3",
+    "saveSpec": null,
+    "fetchSpec": "0.1.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reveal.js-toolbar/-/reveal.js-toolbar-0.1.3.tgz",
+  "_spec": "0.1.3",
+  "_where": "C:\\Users\\milma\\git\\usf\\presentations",
+  "author": {
+    "name": "Greg Denehy"
+  },
+  "bugs": {
+    "url": "https://github.com/denehyg/reveal.js-toolbar/issues"
+  },
+  "description": "A toolbar for reveal.js to quickly access Reveal functionality",
+  "homepage": "https://github.com/denehyg/reveal.js-toolbar#readme",
+  "keywords": [
+    "reveal",
+    "toolbar"
+  ],
+  "license": "MIT, Copyright (C) 2017 Greg Denehy",
+  "name": "reveal.js-toolbar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denehyg/reveal.js-toolbar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
