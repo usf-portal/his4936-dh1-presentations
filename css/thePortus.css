@@ -1,3 +1,7 @@
+html body {
+    font-family: 'Roboto', sans-serif;
+}
+
 hr {
     border: 0;
     height: 1px;
@@ -211,4 +215,10 @@ span.extremely-small, div.extremely-small {
 
 .padding-medium {
     padding: 25px;
+}
+
+.reveal .present p {
+    color: #FFFFFF;
+    font-size: 75%;
+    font-family: 'Roboto', sans-serif  !important;
 }
