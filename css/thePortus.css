@@ -50,17 +50,17 @@ hr {
 }
 
 /* span & div wrappers to size text */
-span.small, div.small{
-    font-size: 0.5em;
+span.small, div.small p.small {
+    font-size: 50% !important;
 }
-span.pretty-small, div.pretty-small {
-    font-size: 0.45em;
+span.pretty-small, div.pretty-small p.pretty-small {
+    font-size: 25% !important;
 }
-span.very-small, div.very-small {
-    font-size: 0.4em;
+span.very-small, div.very-small p.very-small {
+    font-size: 15% !important;
 }
-span.extremely-small, div.extremely-small {
-    font-size: 0.3em;
+span.extremely-small, div.extremely-small p.extremely-small {
+    font-size: 10% !important;
 }
 /* transparency levels */
 .transparent-75 {
@@ -195,11 +195,6 @@ span.extremely-small, div.extremely-small {
     width: 800px;
 }
 
-
-.reveal section.present p img {
-    max-height: 550px;
-}
-
 .center-auto {
     margin-left: auto;
     margin-right: auto;
@@ -217,8 +212,46 @@ span.extremely-small, div.extremely-small {
     padding: 25px;
 }
 
-.reveal .present p {
+/* Sets style inside of slide */
+.reveal section.present p {
     color: #FFFFFF;
     font-size: 75%;
+    padding: 25px;
     font-family: 'Roboto', sans-serif  !important;
+}
+
+.reveal section.present .text-a-bit-small {
+    font-size: 80% !important;
+}
+
+.reveal section.present .text-small {
+    font-size: 60% !important;
+}
+
+.reveal section.present .text-very-small {
+    font-size: 40% !important;
+}
+
+.reveal section.present .text-extremely-small {
+    font-size: 25% !important;
+}
+
+.reveal section.present p img {
+    max-height: 550px;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-justify {
+    text-align: justify;
 }
