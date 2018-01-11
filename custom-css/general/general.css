@@ -1,3 +1,14 @@
+/*!
+ * 
+ * /custom-css/general/general.css
+ *
+ * thePortus presentation slides css
+ * http://theportus.github.io/presentations
+ * MIT licensed
+ *
+ * Copyright (C) 2017 David J. Thomas, thePortus.com
+ */
+
 html body {
     font-family: 'Roboto', sans-serif;
 }
@@ -13,40 +24,44 @@ hr {
     height: 100%;
 }
 
-.height-full {
-    height: 100%;
+.height-full, .height-100 {
+    height: 100% !important;
 }
 
-.width-full {
-    width: 100%;
+.width-full, .width-100{
+    width: 100% !important;
 }
 
-.height-half {
-    height: 50%;
+.width-66 {
+    width: 66% !important!;
 }
 
-.width-half {
-    width: 50%;
+.height-66 {
+    height: 66% !important!;
 }
 
-.text-bottom {
-    vertical-align: text-top !important;
+.height-half, .height-50 {
+    height: 50% !important;
 }
 
-.text-middle {
-    vertical-align: middle !important;
+.width-half, .width-50 {
+    width: 50% !important;
 }
 
-.text-bottom {
-    vertical-align: text-bottom !important;
+.width-33 {
+    width: 33% !important!;
+}
+
+.height-33 {
+    height: 33% !important!;
 }
 
 .line-expanded {
-    line-height: 150%;
+    line-height: 150% !important;
 }
 
 .line-condensed {
-    line-height: 50%;
+    line-height: 50% !important;
 }
 
 /* span & div wrappers to size text */
@@ -115,105 +130,117 @@ span.extremely-small, div.extremely-small p.extremely-small {
 .flex-column {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .flex-row {
     display: flex;
     flex-direction: row;
-}
-
-.flex-justify-start {
-    justify-content: flex-start;
-}
-
-.flex-justify-end {
-    justify-content: flex-start;
-}
-
-.flex-justify-center {
+    align-items: center;
     justify-content: center;
 }
 
+.flex-justify-start {
+    justify-content: flex-start !important;
+}
+
+.flex-justify-end {
+    justify-content: flex-start !important;
+}
+
+.flex-justify-center {
+    justify-content: center !important;
+}
+
 .flex-justify-between {
-    justify-content: space-between;
+    justify-content: space-between !important;
 }
 
 .flex-justify-around {
-    justify-content: space-around;
+    justify-content: space-around !important;
 }
 
 .flex-justify-evenly {
-    justify-content: space-evenly;
+    justify-content: space-evenly !important;
 }
 
 .flex-align-start {
-    align-items: flex-start;
+    align-items: flex-start !important;
 }
 
 .flex-align-end {
-    align-items: flex-end;
+    align-items: flex-end !important;
 }
 
 .flex-align-center {
-    align-items: center;
+    align-items: center !important;
 }
 
 .flex-align-stretch {
-    align-items: stretch;
+    align-items: stretch !important;
 }
 
 .flex-align-baseline {
-    align-items: baseline;
+    align-items: baseline !important;
 }
 
 .flex-align-content-start {
-    align-content: flex-start;
+    align-content: flex-start !important;
 }
 
 .flex-align-content-end {
-    align-content: flex-end;
+    align-content: flex-end !important;
 }
 
 .flex-align-content-center {
-    align-content: center;
+    align-content: center !important;
 }
 
 .flex-align-content-stretch {
-    align-content: stretch;
+    align-content: stretch !important;
 }
 
 .flex-align-content-between {
-    align-content: space-between;
+    align-content: space-between !important;
 }
 
 .flex-align-content-around {
-    align-content: space-around;
+    align-content: space-around !important;
+}
+
+.flex-start {
+    align-self: flex-start !important;
+}
+
+.flex-stop {
+    align-self: flex-end !important;
 }
 
 .slide-contents {
-    height: 500px;
-    width: 800px;
+    height: 500px !important;
+    width: 800px !important;
 }
 
 .center-auto {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 .content-container {
-    object-fit: scale-down;
+    object-fit: scale-down !important;
 }
 
 .padding-light {
-    padding: 5px;
+    padding: 5px !important;
 }
 
 .padding-medium {
-    padding: 25px;
+    padding: 25px !important;
 }
 
-/* Sets style inside of slide */
-.reveal section.present p {
+/* Reveal.js slide specific */
+.reveal section.present div, reveal section.present span, .reveal section.present p {
     color: #FFFFFF;
     font-size: 75%;
     padding: 25px;
@@ -237,21 +264,35 @@ span.extremely-small, div.extremely-small p.extremely-small {
 }
 
 .reveal section.present p img {
-    max-height: 550px;
+    max-height: 550px !important;
 }
 
+/* text styles */
+
 .text-align-left {
-    text-align: left;
+    text-align: left !important;
 }
 
 .text-align-right {
-    text-align: right;
-}
-
-.text-align-center {
-    text-align: center;
+    text-align: right !important;
 }
 
 .text-align-justify {
-    text-align: justify;
+    text-align: justify !important;
+}
+
+.text-align-center{
+    text-align: center !important;
+}
+
+.text-top .text-valign-top {
+    vertical-align: text-top !important;
+}
+
+.text-align-middle .text-valign-middle .text-valign-center{
+    vertical-align: middle !important;
+}
+
+.text-bottom .text-valign-bottom {
+    vertical-align: text-bottom !important;
 }
