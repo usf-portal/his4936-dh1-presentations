@@ -1,0 +1,94 @@
+/* start universal reveal grid settings */
+.reveal > .slides > section > section.slide {
+  box-sizing: border-box;
+  display: grid;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  padding: 10vmin;
+  align-self: flex-start;
+  align-items: flex-start;
+  align-content: stretch;
+  justify-content: stretch;
+}
+
+.reveal > .slides > section > section.slide img {
+  border-width: 0px !important;
+  border-color: #000000 !important;
+}
+
+.reveal > .slides > section > section.slide a {
+  color: #FF8C00 !important;
+}
+/* end universal reveal grid settings */
+
+/* start universal header settings */
+.reveal > .slides > section > section.slide header {
+   grid-area: header;
+   background-color: rgba(0, 0, 0, 0.4);
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 900px;
+}
+/* end universal header settings */
+
+/* start universal content settings */
+.reveal > .slides > section > section.slide content {
+  grid-area: content;
+  background-color: rgba(0, 0, 0, 0.4);
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+}
+/* end universal content settings */
+
+/* start universal footer settings */
+.reveal > .slides > section > section.slide footer {
+  grid-area: footer;
+  background-color: rgba(0, 0, 0, 0.4);
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+}
+/* end universal footer settings */
+
+/* start small media settings */
+@media (max-width: 568px) {
+  .reveal > .slides > section > section.slide {
+    grid-template-areas:
+        "header"
+        "content"
+        "footer";
+    grid-template-columns: auto;
+  }
+  .reveal > .slides > section > section.slide footer {
+    justify-self: end;
+  }
+}
+/* end small media settings */
+
+/* start large media settings */
+@media (min-width: 1280px) {
+    .reveal > .slides > section > section.slide content {
+    display: grid;
+    grid-template-areas:
+        "header"
+        "content"
+        "footer";
+    grid-template-columns: auto;
+  }
+  h1 {
+    grid-area: title;
+  }
+  .reveal > .slides > section > section.slide description {
+    grid-area: description;
+  }
+}
+/* end large media settings */
+
+.reveal > .slides > section > section.slide-title {
+  grid-template-areas:
+      "header"
+      "content"
+      "footer";
+  grid-template-columns: auto;
+}

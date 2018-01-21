@@ -5,7 +5,7 @@
 ##### The 'Where and When': Mediterranean, 2700 BCE - 900 CE
 
 
-![Mediterranean Map](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/what-geography.jpg)
+![Mediterranean Map](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/what-geography.jpg)
 
 --
 
@@ -48,7 +48,7 @@ Approaches, Scales, and Themes
 
 <div class="layout">
     <div class="img-container">
-        ![Egyptian Book of the Dead](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egyptian-myth.jpg)
+        ![Egyptian Book of the Dead](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egyptian-myth.jpg)
     </div>
 </div>
 
@@ -93,10 +93,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Archaic procession](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/procession-1.jpg)
+            ![Archaic procession](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/procession-1.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Panathenaic procession](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/procession-2.jpg)
+            ![Panathenaic procession](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/procession-2.jpg)
         </div>
     </div>
 </div>
@@ -108,10 +108,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Sacrificing a bull to Asclepius](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/sacrifice-1.jpg)
+            ![Sacrificing a bull to Asclepius](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-1.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Individual sacrifice](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/sacrifice-2.gif)
+            ![Individual sacrifice](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-2.gif)
         </div>
     </div>
 </div>
@@ -120,7 +120,7 @@ Approaches, Scales, and Themes
 
 ###### Votive Dedications
 
-![Votive Dedications](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/sacrifice-3.jpg)
+![Votive Dedications](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/sacrifice-3.jpg)
 
 ---
 
@@ -133,7 +133,7 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container flex-grow">
-            ![Philosophy - Epicurus](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/philosophy-epicurus.jpg)
+            ![Philosophy - Epicurus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/philosophy-epicurus.jpg)
         </div>
         <div class="layout-col text-container">
             Thus that which is the most awful of evils, death, is nothing to us, since when we exist there is no death, and when there is death we do not exist.
@@ -148,7 +148,7 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container flex-grow">
-            ![Philosophy - Xenophanes](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/philosophy-xenophanes.jpg)
+            ![Philosophy - Xenophanes](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/philosophy-xenophanes.jpg)
         </div>
         <div class="layout-col text-container">
             Homer and Hesiod have attributed to the gods everything that is a shame and reproach among men, stealing and committing adultery and deceiving each other.
@@ -164,7 +164,7 @@ Approaches, Scales, and Themes
 
 ##### Magic
 
-![Defixionum, Curse Tablet](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/defixionum.jpg)
+![Defixionum, Curse Tablet](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/defixionum.jpg)
 
 --
 
@@ -173,10 +173,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Amulets and Ma'at Fiture](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-magic-1.jpg)
+            ![Amulets and Ma'at Fiture](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-magic-1.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Magic Amulets](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-magic-2.jpg)
+            ![Magic Amulets](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-magic-2.jpg)
         </div>
     </div>
 </div>
@@ -188,10 +188,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Sacred Shovel](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-shovel.jpg)
+            ![Sacred Shovel](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-shovel.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Votive Tablet with Foot Impressions](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-isaeum.jpg)
+            ![Votive Tablet with Foot Impressions](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-isaeum.jpg)
         </div>
     </div>
 </div>
@@ -204,7 +204,7 @@ Approaches, Scales, and Themes
 
 ##### Tribute Lists
 
-![Athenian Tribute List](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/imperialism-athenian-tribute-list.jpg)
+![Athenian Tribute List](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-athenian-tribute-list.jpg)
 
 --
 
@@ -213,10 +213,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Colosseum](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/imperialism-colosseum.jpg)
+            ![Colosseum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-colosseum.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Colosseum dedicatory inscription as reconstructed by Géza Alföldy Alfody](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/imperialism-alfoldy-inscription.gif)
+            ![Colosseum dedicatory inscription as reconstructed by Géza Alföldy Alfody](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/imperialism-alfoldy-inscription.gif)
         </div>
     </div>
 </div>s
@@ -231,7 +231,7 @@ Approaches, Scales, and Themes
 ##### Libellus
 
 
-![Libellum](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/persecution-libellum-2.jpg)
+![Libellum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/persecution-libellum-2.jpg)
 
 --
 
@@ -240,10 +240,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row flex-grow">
         <div class="layout-col img-container">
-            ![Table of the Marytrs](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/persecution-tabula-martyrorum.jpg)
+            ![Table of the Marytrs](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/persecution-tabula-martyrorum.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Senatus Consultus de Bacchinalibus](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/scu-de-bacchinalibus.jpg)
+            ![Senatus Consultus de Bacchinalibus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/scu-de-bacchinalibus.jpg)
         </div>
     </div>
 </div>
@@ -259,10 +259,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Greek Grave in Egypt from the Archaic period](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-syncretism-1.jpg)
+            ![Greek Grave in Egypt from the Archaic period](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-1.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Later Greek Grave in Egypt](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-syncretism-2.jpg)
+            ![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-2.jpg)
         </div>
     </div>
 </div>
@@ -274,10 +274,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Later Greek Grave in Egypt](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-syncretism-3.jpg)
+            ![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-3.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Later Greek Grave in Egypt](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-syncretism-4.jpg)
+            ![Later Greek Grave in Egypt](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-syncretism-4.jpg)
         </div>
     </div>
 </div>
@@ -286,13 +286,13 @@ Approaches, Scales, and Themes
 
 ##### Symbols: Isis and Mary
 
-![Isis and Horus contrasted with Jesus and Mary](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-isis-mary.jpg)
+![Isis and Horus contrasted with Jesus and Mary](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-isis-mary.jpg)
 
 --
 
 ##### Symbols: A Grave
 
-![Christian grave marked with Dis Manibus](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/syncretism-1.jpg)
+![Christian grave marked with Dis Manibus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-1.jpg)
 
 --
 
@@ -301,10 +301,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Sol Invictus](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/syncretism-3.jpg)
+            ![Sol Invictus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-3.jpg)
         </div>
         <div class="layout-col img-container">
-            ![Jesus as Sol Invictus](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/syncretism-4.jpg)
+            ![Jesus as Sol Invictus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-4.jpg)
         </div>
     </div>
 </div>
@@ -313,13 +313,13 @@ Approaches, Scales, and Themes
 
 ##### Roman Catacombs
 
-![Rome, Jesus as Orpheus](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/syncretism-2.jpg)
+![Rome, Jesus as Orpheus](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/syncretism-2.jpg)
 
 --
 
 ##### Brazier from Alexandria
 
-![Brazier with inscribed in Hebrew with Greek letters](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/egypt-brazier.jpg)
+![Brazier with inscribed in Hebrew with Greek letters](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/egypt-brazier.jpg)
 
 ---
 
@@ -332,10 +332,10 @@ Approaches, Scales, and Themes
 <div class="layout">
     <div class="layout-row">
         <div class="layout-col img-container">
-            ![Dura-Europas, bapistry Diagram](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-church-diagram-1.png)
+            ![Dura-Europas, bapistry Diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-church-diagram-1.png)
         </div>
         <div class="layout-col img-container">
-            ![Dura-Europas, church diagram](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-church-diagram-2.jpg)
+            ![Dura-Europas, church diagram](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-church-diagram-2.jpg)
         </div>
     </div>
 </div>
@@ -344,32 +344,32 @@ Approaches, Scales, and Themes
 
 ##### Mithraeum
 
-![Dura-Europas, Mithraeum](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-mithraeum-1.jpg)
+![Dura-Europas, Mithraeum](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-mithraeum-1.jpg)
 
 ##### Mithraeum, pt. 2
 
-![Dura-Europas Mithraeum close up 2](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-mithraeum-2.jpg)
+![Dura-Europas Mithraeum close up 2](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-mithraeum-2.jpg)
 
 --
 
 ##### Baptistry
 
-![Dura-Europas, bapistry](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-baptistry-1.jpg)
+![Dura-Europas, bapistry](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-baptistry-1.jpg)
 
 --
 
 ##### Baptistry, pt. 2
 
-![Dura-Europas baptistry, close Up](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-baptistry-2.jpg)
+![Dura-Europas baptistry, close Up](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-baptistry-2.jpg)
 
 --
 
 ##### Synagoge
 
-![Dura-Europas, mural from Synagoge](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-synagoge-1.jpg)
+![Dura-Europas, mural from Synagoge](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-synagoge-1.jpg)
 
 --
 
 ##### Saul & David
 
-![Dura-Europas, Saul annoints David wearing togas](https://s3.amazonaws.com/aws-website-static-dt9ue/presentations/history/ram-intro/dura-europas-synagoge-2.jpg)
+![Dura-Europas, Saul annoints David wearing togas](https://theportus.nyc3.digitaloceanspaces.com/static/presentations/history/ram-intro/dura-europas-synagoge-2.jpg)
