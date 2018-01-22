@@ -1,9 +1,19 @@
 <!doctype html>
 <html>
 	<head>
+        <!-- authorship info -->
+        <meta name="author" content="David Thomas">
+        <title>Digital Presentations</title>
+        <!-- external meta and css imports -->
 		<link rel="import" href="imports-meta-content.html">
 		<link rel="import" href="imports-css-libs.html">
-		<title>Digital Presentations</title>
+        <!-- extra css for slide layouts & styling -->
+        <link rel="stylesheet" href="custom-css/layout/slides.css">
+        <link rel="stylesheet" href="custom-css/layout/text.css">
+        <!-- sets the background for this presentation -->
+        <link rel="stylesheet" href="custom-css/background/angular-clemens-migrant.css">
+        <!-- any extra styling you want -->
+        <link rel="stylesheet" href="custom-css/main.css" />
 	</head>
 	<body>
         <!-- reveal -->
@@ -13,63 +23,72 @@
                 <!-- splash page vertical container -->
                 <section>
                     <!-- splash page -->
-                    <section class="slide slide-title">
-						<header>
-							<h1>Digital Presentations</h1>
-							<h3>David J. Thomas</h3>
-						</header>
-						<content></content>
-						<footer>
-							Instructor of Ancient History and Digital Humanities<br  />
-							<a href="https://usf.edu" target="_">
-								University of South Florida, Department of History
-							</a>
-					    </footer>
-
-						<!--
-                        <aside class="notes">
-                    		Digital Presentations: David J. Thomas
-                    	</aside>
-                        <div class="flex-column flex-justify-evenly" style="height: 100%;">
-                            <div>
-                                <h1>David J. Thomas</h1>
-                                <h3>Digital Presentations</h3>
-                            </div>
-                            <div>
-                                <hr />
-                            </div>
-                            <div class="flex-column text-a-bit-small">
-                                <div class="small">Instructor of Ancient History and Digital Humanities</div>
-                                <div class="small"><a href="https://usf.edu" target="_">University of South Florida</a></div>
-                                <div class="small">Department of History</div>
-                            </div>
-                            <div>
-                                <hr />
-                            </div>
-                            <div class="flex-row flex-justify-evenly">
-                                <div class="text-small">
-                                    <a href="http://thePortus.com" target="_">Website</a>
-                                </div>
-                                <div class="text-small">
-                                    <a href="mailto:dave.a.base@gmail.com">Email</a>
-                                </div>
-                            </div>
-                            <div>
-                                <hr />
-                            </div>
-                            <div class="text-very-small text-bottom">Powered by <a href="https://github.com/hakimel/reveal.js">Reveal.js</a></div>
-					-->
-                    </section>
-
-
-					<!-- /splash page -->
-                    <!-- current talk -->
-                    <!-- remove comments below only when you want a current talk to be highlighted -->
-                    <!--
                     <section>
-                        <h3>Today's Talk</h3>
-                        <hr />
-                        <a href="docs/current/"></a>
+                        <div class="slide">
+                            <header>
+                                <h1>Digital Presentations</h1>
+                            </header>
+                            <content>
+                                <h2>David J. Thomas</h2>
+                                <div class="font-size-75">
+                                    <div>
+                                        Instructor of Ancient History and Digital Humanities
+                                    </div>
+                                    <div>
+                                        <a href="https://www.usf.edu/">University of South Florida</a>
+                                    </div>
+                                    <div>
+                                        Department of History
+                                    </div>
+                                </div>
+                            </content>
+                            <footer>
+                                <div>
+                                    <a href="http://thePortus.com">Website</a>
+                                </div>
+                                <div>
+                                    <a href="https://github.com/thePortus" target="_">GitHub</a>
+                                </div>
+                                <div>
+                                    <a href="mailto:davidjthomas@usf.edu">Email</a>
+                                </div>
+                            </footer>
+                        </div>
+                    </section><!-- /splash page -->
+
+                    <!-- current talk -->
+                    <!-- add/remove comments to show/hide current talk
+                    <section>
+                        <div class="slide">
+                            <header>
+                                <h1>Today's Talk</h1>
+                            </header>
+                            <content>
+                                <h2>Title of the Talk</h2>
+                                <div class="font-size-75">
+                                    <div>
+                                        Made Up Association
+                                    </div>
+                                    <div>
+                                        Made Up Place
+                                    </div>
+                                    <div>
+                                        January 1, 2018
+                                    </div>
+                                </div>
+                            </content>
+                            <footer>
+                                <div>
+                                    <a href="http://thePortus.com">Website</a>
+                                </div>
+                                <div>
+                                    <a href="https://github.com/thePortus" target="_">GitHub</a>
+                                </div>
+                                <div>
+                                    <a href="mailto:davidjthomas@usf.edu">Email</a>
+                                </div>
+                            </footer>
+                        </div>
                     </section>
                     -->
                     <!-- /current talk -->
@@ -79,32 +98,52 @@
 				<section>
                     <!-- digital title page -->
                     <section>
-                        <h2>Courses: Digital</h2>
+                        <div class="slide">
+                            <header>
+                                <h2>Courses: Digital</h2>
+                            </header>
+                        </div>
                     </section> <!-- /digital title page -->
                     <!-- hacking history -->
                     <section>
-                        <h3>Hacking History<br /><span class="transparent-25">Digital Humanities I</span></h3>
-                        <hr />
-                        <ol class="pretty-list">
-                            <li>
-                                <span class="text-small"><a href="usf-dh-dh1-intro.html">Introduction to the Digital Humanities</a></span>
-                            </li>
-                            <li>
-                                <span class="text-small"><a href="usf-dh-computer-history.html">Nations & Capital: The Evolution of Computing</a></span>
-                            </li>
-                            <li>
-                                <span class="text-small"><a href="usf-dh-history-of-hacking.html">Horses, Humans, and a History of Hacking</a></span>
-                            </li>
-                            <li>
-                                <span class="text-small"><a href="usf-dh-archive.html">Data's Physical Footprint</a></span>
-                            </li>
-                            <li>
-                                <span class="text-small"><a href="usf-dh-networks">Analyzing Historical Networks</a></span>
-                            </li>
-                            <li>
-                                <span class="text-small"><a href="usf-dh-text">Unraveling Text</a></span>
-                            </li>
-                        </ol>
+                        <div class="slide">
+                            <header>
+                                <h3>Digital Humanities I: Hacking History</h3>
+                            </header>
+                            <content>
+                                <ul>
+                                    <li>
+                                        <a href="usf-dh-dh1-intro.html">Introduction to the Digital Humanities</a>
+                                    </li>
+                                    <li>
+                                        <a href="usf-dh-computer-history.html">Nations & Capital: The Evolution of Computing</a>
+                                    </li>
+                                    <li>
+                                        <a href="usf-dh-history-of-hacking.html">Horses, Humans, and a History of Hacking</a>
+                                    </li>
+                                    <li>
+                                        <a href="usf-dh-archive.html">Data's Physical Footprint</a>
+                                    </li>
+                                    <li>
+                                        <a href="usf-dh-networks">Analyzing Historical Networks</a>
+                                    </li>
+                                    <li>
+                                        <a href="usf-dh-text">Unraveling Text</a>
+                                    </li>
+                                </ul>
+                            </content>
+                            <footer>
+                                <div>
+                                    <a href="http://thePortus.com">Website</a>
+                                </div>
+                                <div>
+                                    <a href="https://github.com/thePortus" target="_">GitHub</a>
+                                </div>
+                                <div>
+                                    <a href="mailto:davidjthomas@usf.edu">Email</a>
+                                </div>
+                            </footer>
+                        </div>
                     </section> <!-- /hacking history -->
 				</section> <!-- /digital courses vertical container -->
 
@@ -112,26 +151,35 @@
                 <section>
                     <!-- history title page -->
                     <section>
-                        <h2>Courses: History</h2>
+                        <div class="slide">
+                            <header>
+                                <h2>Courses: History</h2>
+                            </header>
+                        </div>
                     </section> <!-- /history title page -->
                     <!-- religions of the ancient mediterranean -->
 					<section>
-                        <h3>Religions<br /><span class="text-very-small">of the</span><br />Ancient Mediterranean</h3>
-                        <hr />
-                        <ol class="pretty-list">
-                            <li>
-                                <span class="text-small"><a href="usf-hist-ram-intro.html">Introduction</a></span>
-                            </li>
-                            <li>
-                                <span class="text-small"><a href="usf-hist-truths-in-history.html">Truths in History</a></span>
-                            </li>
-                            <li>
-                                <span class="text-small"><a href="usf-hist-tools.html">Tools of the Trade</a></span>
-                            </li>
-							<li>
-								<span class="text-small"><a href="usf-hist-mystery-cults.html">Mystery Cults</a></span>
-							</li>
-                        </ol>
+                        <div class="slide">
+                            <header>
+                                <h3>Religions of the Ancient Mediterranean</h3>
+                            </header>
+                            <content>
+                                <ul>
+                                    <li>
+                                        <a href="usf-hist-ram-intro.html">Introduction</a>
+                                    </li>
+                                    <li>
+                                        <a href="usf-hist-truths-in-history.html">Truths in History</a>
+                                    </li>
+                                    <li>
+                                        <a href="usf-hist-tools.html">Tools of the Trade</a>
+                                    </li>
+        							<li>
+        								<a href="usf-hist-mystery-cults.html">Mystery Cults</a>
+        							</li>
+                                </ul>
+                            </content>
+                        </div>
                     </section> <!-- /religions of the ancient mediterranean -->
 				</section><!-- / history courses vertical container -->
                 <!-- conferences and talks vertical contianer -->

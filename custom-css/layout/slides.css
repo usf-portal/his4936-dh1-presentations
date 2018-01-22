@@ -1,0 +1,62 @@
+/* default slide settings */
+.reveal .slides section.present .slide {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+  width: 80vw;
+  padding: 25px;
+  margin: auto;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas:
+    "header"
+    "content"
+    "footer";
+}
+
+/* define link and image appearance*/
+.reveal .slides section.present a {
+  color: rgba(235, 220, 0, 0.7);
+}
+.reveal .slides section.present img {
+  border-width: 0px;
+}
+
+/* define slide grid areas */
+.reveal .slides section.present header {
+  grid-area: "header";
+  padding: 15px;
+}
+.reveal .slides section.present content {
+  grid-area: "content";
+  padding: 15px;
+  overflow: auto;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+}
+.reveal .slides section.present footer {
+  grid-area: "footer";
+  padding: 15px;
+  font-size: 0.5em;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+.reveal .slides section.present text-passage {
+  grid-area: "text-passage";
+  padding: 15px;
+}
+.reveal .slides section.present left-col {
+  grid-area: "left-col";
+  padding: 15px;
+}
+.reveal .slides section.present center-col {
+  grid-area: "center-col";
+  padding: 15px;
+}
+.reveal .slides section.present right-col {
+  grid-area: "right-col";
+  padding: 15px;
+}
